@@ -87,7 +87,7 @@ p {
     background-color: #2589bd;
 }
 
-article {
+aside article {
     margin-bottom: 32px;
     color: #ffffff;
 }
@@ -100,7 +100,7 @@ h3 {
 
 
 
-aside img {
+aside article img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
@@ -119,7 +119,7 @@ section {
 
 
 
-img {
+section img {
     max-height: 200px;
 }
 
