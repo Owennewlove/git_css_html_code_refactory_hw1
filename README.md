@@ -1,6 +1,8 @@
 # Git, CSS, & Html Code Refactory
 
-## The provided Html sheet was cluttered and did not contain many semantic elements, therefore, I added quality semantic to the Html. Once the Html had been changed, the Css style sheet needed to match in order to alleviate code breaks. The provided Css sheet was also littered with redundancies, so much consolidation was needed. The overall purpose of building this website was to refactor the provided code into a configuration that is easier to read and run. 
+## Description
+
+The provided Html sheet was cluttered and did not contain many semantic elements, therefore, I added quality semantic to the Html. Once the Html had been changed, the Css style sheet needed to match in order to alleviate code breaks. The provided Css sheet was also littered with redundancies, so much consolidation was needed. The overall purpose of building this website was to refactor the provided code into a configuration that is easier to read and run. 
 
 
 ## Table of Contents (Optional)
@@ -28,11 +30,14 @@ To add a screenshot, create an `assets/images` folder in your repository and upl
 
 ## Credits
 
-List your collaborators, if any, with links to their GitHub profiles.
+The following are links referenced when code refactoring this website. 
 
-If you used any third-party assets that require attribution, list the creators with links to their primary web presence in this section.
+W33 schools 
+ 1. https://www.w3schools.com/html/html5_semantic_elements.asp
 
-If you followed tutorials, include links to those here as well.
+Full stack blog
+ 1. https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide
+
 
 ## License
 
