@@ -108,23 +108,13 @@ h3 {
 
 
 
-.benefit-lead img {
+aside img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
 
-.benefit-brand img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
 
-.benefit-cost img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
 
 section {
     margin-bottom: 20px;
